@@ -1,1 +1,3 @@
 sgnm
+
+Another line added to file
