@@ -1,5 +1,5 @@
 https://machinelearningforkids.co.uk/#!/signup
-Login: Risignstars
+Login: Risingstars
 email: lvikas@hotmail.com
 password:6ZYkr5NxGRUP
 
@@ -18,3 +18,8 @@ Githublego1234
 IBM Watson
 lvikas@hotmail.com
 Ibmwatson1234
+
+Location Sydeny
+https://dataplatform.cloud.ibm.com/data/catalog?target=services&context=cpdaas
+
+dUkMZLFNEymdYGZfsVxCg3_hXyQHQVUaXAlJoqcqt9I_
