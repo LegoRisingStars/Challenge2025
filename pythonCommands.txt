@@ -1,0 +1,12 @@
+key
+
+a2f71e90-731f-11f0-a6f9-2b531e9784be9881e4db-afc3-4f25-9f41-f855d0c572a5
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+
+.\.venv310\Scripts\Activate.ps1
+
+
+pip install tensorflow==2.13 tensorflow-hub numpy Pillow scipy
+python Test.py
